@@ -1,2 +1,4 @@
 # 30DaysOfPython
- Leraning with me python :)
+
+The first day was esay and fun, In the end of the learning I write [[different data type]].
+
