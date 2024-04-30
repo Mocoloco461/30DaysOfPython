@@ -17,7 +17,7 @@ set = {1,1,2,1}
 
 Result:
 {1, 2}
-#### Dictionary - can give u like one big erae to store all the type of the veribale in one place
+#### Dictionary - can give u like one big area to store all the type of the veribale in one place
 
 for exomple:
 ```python
